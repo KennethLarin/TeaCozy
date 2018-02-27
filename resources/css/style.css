@@ -57,3 +57,34 @@ header a {
 }
 
 /* Menu Section */
+
+#menu {
+  position: relative;
+  width: 1000px;
+  margin: 0 auto;
+  top: 91px;
+}
+
+.menu-title {
+  text-align: center;
+  padding: 20px;
+}
+
+.menu-title h2 {
+  padding: 20px;
+}
+
+.conteiner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.tea img {
+  margin-bottom: 10px;
+}
+
+.tea {
+  margin: 15px;
+}
