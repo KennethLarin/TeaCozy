@@ -89,3 +89,32 @@ header a {
   margin: 15px;
   text-align: center;
 }
+
+/*Information Section*/
+
+#information {
+  display: flex;
+  position: relative;
+  width: 1200px;
+  height: 500px;
+  margin: 0 auto;
+  top: 100px;
+  flex-wrap: wrap;
+  background-image: url("../images/img-locations-background.jpg");
+}
+
+#information h2 {
+  width: 100%;
+}
+
+.locations {
+  display: flex;
+}
+
+.place {
+  width: 300px;
+  height: 300px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
