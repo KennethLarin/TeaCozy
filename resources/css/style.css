@@ -26,4 +26,5 @@ header {
 
 header a {
   color: inherit;
+  padding: 0 10px;
 }
